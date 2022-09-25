@@ -4,7 +4,6 @@
     "type": "library",
     "require": {
         "php": "^7.0 || ^8.0",
-        "lcobucci/jwt": "5.0.x-dev",
         "topthink/framework": "^5.1.10 || ^6.0.0"
     },
     "license": "MIT",
